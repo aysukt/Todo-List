@@ -1,0 +1,42 @@
+.main{
+  justify-content: space-between;
+  padding: (20,20);
+  display:'flex';
+}
+.info-input{
+  height: 49px;
+  width: 500px;
+  font-size: 20px;
+  border-radius:20px;
+  border: none;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.info-button{
+  height: 52px;
+  width: 55px;
+  background-color: lightblue;
+  font-size: xx-large;
+  border-radius: 20px;
+  margin-top: 1rem;
+} 
+.main{
+  margin-left: auto;
+  margin-right: auto;
+  max-width: fit-content;
+  margin-top: 2rem;
+  max-width: fit-content;
+  align-content: center;
+}
+#list{
+  margin-top:1rem;
+  margin-bottom:1rem;
+  border:2px solid lightgray;
+  border-radius: 20px;
+  width:560px;
+  max-height:fit-content;
+  font-style:larger;
+  display:flex;
+  justify-content: space-between;
+  padding:2px;
+  background-color: rgb(245, 242, 243);
+}
